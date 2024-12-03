@@ -19,6 +19,7 @@ Faraday aggregates and normalizes the data you load, allowing exploring it into 
 
 To read about the latest features check out the [release notes](https://github.com/infobyte/faraday/blob/master/RELEASE.md)!
 
+> **Note:** This is our custom version of Faraday !!
 
 ## Install
 
